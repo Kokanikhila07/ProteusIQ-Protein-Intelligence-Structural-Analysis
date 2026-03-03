@@ -102,8 +102,4 @@ _(Note: Secondary structure is derived strictly from experimental PDB headers; I
 - **Visualization**: [3Dmol.js](https://3dmol.csb.pitt.edu/), [Matplotlib](https://matplotlib.org/)
 - **External Services**: NCBI BLAST, RCSB PDB, AlphaFold DB, EBI Clustal Omega, UniProt REST API
 
----
 
-## 📄 License
-
-This software is released under the **MIT License**. Built for structural biology research and analysis.
