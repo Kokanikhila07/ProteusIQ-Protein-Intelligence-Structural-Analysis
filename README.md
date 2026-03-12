@@ -6,6 +6,11 @@ Built for robustness and scale, ProteusIQ is designed to handle complex bioinfor
 
 ---
 
+## 🌐 Website
+[https://proteusiq-protein-intelligence-structural-analysis-ixzsajfkhru.streamlit.app/]ProteusIQ 
+
+---
+
 ## 🚀 Features
 
 ProteusIQ executes an automated 15-step pipeline on any input sequence:
@@ -113,6 +118,7 @@ _(Note: Secondary structure is derived strictly from experimental PDB headers; I
 - **Caching**: `diskcache`
 - **Visualization**: [3Dmol.js](https://3dmol.csb.pitt.edu/), [Matplotlib](https://matplotlib.org/)
 - **External Services**: NCBI BLAST, RCSB PDB, AlphaFold DB, EBI Clustal Omega, UniProt REST API
+
 
 
 
